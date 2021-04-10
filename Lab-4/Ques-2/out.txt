@@ -1,0 +1,82 @@
+Initial Routing Table for Vertex 1
+Destination 	 Distance 	 Next Vertex
+  1 		  0 		  1
+  2 		  1 		  2
+  3 		  inf 		  -
+  4 		  inf 		  -
+  5 		  inf 		  -
+
+Initial Routing Table for Vertex 2
+Destination 	 Distance 	 Next Vertex
+  1 		  1 		  1
+  2 		  0 		  2
+  3 		  6 		  3
+  4 		  inf 		  -
+  5 		  3 		  5
+
+Initial Routing Table for Vertex 3
+Destination 	 Distance 	 Next Vertex
+  1 		  inf 		  -
+  2 		  6 		  2
+  3 		  0 		  3
+  4 		  2 		  4
+  5 		  inf 		  -
+
+Initial Routing Table for Vertex 4
+Destination 	 Distance 	 Next Vertex
+  1 		  inf 		  -
+  2 		  inf 		  -
+  3 		  2 		  3
+  4 		  0 		  4
+  5 		  4 		  5
+
+Initial Routing Table for Vertex 5
+Destination 	 Distance 	 Next Vertex
+  1 		  inf 		  -
+  2 		  3 		  2
+  3 		  inf 		  -
+  4 		  4 		  4
+  5 		  0 		  5
+
+-------------------------------------------------------
+
+Final Routing Table for Vertex 1
+Destination 	 Distance 	 Next Vertex
+  1 		  0 		  1
+  2 		  1 		  2
+  3 		  13 		  3
+  4 		  11 		  4
+  5 		  7 		  5
+
+Final Routing Table for Vertex 2
+Destination 	 Distance 	 Next Vertex
+  1 		  2 		  1
+  2 		  0 		  2
+  3 		  12 		  3
+  4 		  10 		  4
+  5 		  6 		  5
+
+Final Routing Table for Vertex 3
+Destination 	 Distance 	 Next Vertex
+  1 		  8 		  1
+  2 		  12 		  2
+  3 		  0 		  3
+  4 		  4 		  4
+  5 		  10 		  5
+
+Final Routing Table for Vertex 4
+Destination 	 Distance 	 Next Vertex
+  1 		  9 		  1
+  2 		  10 		  2
+  3 		  4 		  3
+  4 		  0 		  4
+  5 		  8 		  5
+
+Final Routing Table for Vertex 5
+Destination 	 Distance 	 Next Vertex
+  1 		  5 		  1
+  2 		  6 		  2
+  3 		  8 		  3
+  4 		  8 		  4
+  5 		  0 		  5
+
